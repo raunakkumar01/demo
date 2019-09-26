@@ -12,7 +12,7 @@ git config --global user.name "raunakkumar01"
 git config --global user.email "raunak.kumar01@gmail.com"
 
 3.TO SET URL
-git remote add origin https://github.com/raunakkumar01/ml19-20a.git
+git remote add origin https://github.com/raunakkumar01/demo.git
 
 4.PUSH/PULL COMMAND
 FOR PULL :
